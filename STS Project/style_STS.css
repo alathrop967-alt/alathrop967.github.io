@@ -1,0 +1,34 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table,tr,td {
+  border: 3px solid rgb(0, 0, 0);
+  font-family: cursive;
+  color: rgb(229, 196, 153);
+}
+.bottom-div {
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+    width: 100%;
+}
+
+.bottom-table {
+  border: 1px;
+  background-color: gray;
+  font-family: cursive;
+  bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.indented-first-line {
+  text-indent: 30px;
+}
+
+html,body{
+    width: 100%;
+    overflow-x: hidden;
+}
